@@ -1,0 +1,11 @@
+Part     Value            Package       Digikey P/N                     Mouser P/N
+
+C1, C4   1uF              C0603         587-3305-1-ND                   963-EMK107B7105KAHT          
+C2       10n              C0603         445-1311-1-ND                   810-C1608X7R1H103K
+C3       10u              C0603         490-18214-1-ND                  81-GRM188R61E106KA3D
+IC1      PIC16F15214-E/SN SOIC-8        150-PIC16F15214-I/SN-ND         (Out of stock)
+IC2      AP7375-33SA      SOT23         (Out of stock)                  AP7375-33SA-7
+Q1       DMG2302UK        SOT23         DMG2302UK-7DICT-ND              621-DMG2302UK-7
+R1       150              R0603         13-RC0603FR-13150RLCT-ND        603-RC0603FR-13150RL
+R2       470              R0603         13-RC0603FR-10470RLCT-ND        603-RC0603FR-10470RL
+R3       10k              R0603         13-RC0603FR-1310KLCT-ND         603-RC0603FR-1310KL
